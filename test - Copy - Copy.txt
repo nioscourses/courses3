@@ -1,0 +1,1 @@
+git remote set-url origin https://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@github.com/nioscourses/course1
